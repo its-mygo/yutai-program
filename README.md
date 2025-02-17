@@ -155,7 +155,7 @@ sphereMaker.py -i 1.xyz 2.xyz -n 1 2 -d 1.5 --name test --dis 3
 *** Sphere Radii is 8.30 A.
 *** Sphere Radii is 15.68 Bohr.
 ```
-The value oof Sphere Radii(in Bohr) is used for setting the sphere of nanoreactor.
+The value of Sphere Radii(in Bohr) is used for setting the sphere of nanoreactor.
 
 ### 2.2 Sampling:
 
