@@ -4,24 +4,7 @@ It is recommended to use it on `Linux`.
 
 ### 1.1 Software:
 
-#### Anaconda
-
-[下载 | Anaconda](https://www.anaconda.com/download/)
-
-#### xtb
-
-[下载 | xtb](https://xtb-docs.readthedocs.io/en/latest/setup.html)
-
-#### Packmol
-
-[下载 | Packmol](https://m3g.github.io/packmol/download.shtml)
-
-#### VMD
-
-[下载 | VMD](https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD)
-
-
-#### Gaussion 16
+[Anaconda](https://www.anaconda.com/download/), [xtb](https://xtb-docs.readthedocs.io/en/latest/setup.html), [packmol](https://m3g.github.io/packmol/download.shtml),[VMD](https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD) and Gaussion 16 are needed.
 
 ### 1.2 Python Library:
 
@@ -103,7 +86,7 @@ export PATH=.../python/sphereMaker.py:$PATH
 export PATH=.../python/trj_split.py:$PATH
 ```
 
-Notes:
+>[!Notes]:
 1. Using the latest version of `hmmlearn` and `Cmocean` may result in an error.`hmmlearn=0.2.7` and `cmocean=3.0.3` will be ok.
 ---
 
@@ -155,7 +138,7 @@ sphereMaker.py -i 1.xyz 2.xyz -n 1 2 -d 1.5 --name test --dis 3
 *** Sphere Radii is 8.30 A.
 *** Sphere Radii is 15.68 Bohr.
 ```
-The value of Sphere Radii(in Bohr) is used for setting the sphere of nanoreactor.
+The value oof Sphere Radii(in Bohr) is used for setting the sphere of nanoreactor.
 
 ### 2.2 Sampling:
 
