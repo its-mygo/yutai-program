@@ -1,3 +1,15 @@
+<h1 align="center"> Scripts for Automated Exploration of Reaction Network and Mechanism
+
+## 0. Main
+
+<div style="text-align: center">
+
+![alt text](image.png)
+</div>
+
+**Auther:** [Yutai Zhang](https://orcid.org/0009-0001-2327-0623), [Chao Xu](https://orcid.org/0000-0002-4043-2954), [Zhenggang Lan](https://orcid.org/0000-0002-8509-0388)
+**Cite This:** ***J. Chem. Theory Comput. 2023, 19, 23, 8718-8731***
+
 ## 1. Initial Settings:
 
 It is recommended to use it on `Linux`.
@@ -69,14 +81,14 @@ conda install conda-forge::matplotlib
 ```
 
 ### 1.3 .bashrc Settings:
-It is recommended to write down the absolute path of software into the `.bashrc` file. eg: packmol:
+It is recommended to write down the absolute path of software into the `.bashrc` file. eg: `packmol`:
 ```commandline
 vi ~/.bashrc
 PATH=$PATH:/path/to/packmol
 source ~/.bashrc
 ```
 
-And write the absolute path of the following folder and python program into the `.bashrc` file: ：`DynReacExtr`、`ReacNetDraw`、`QmJob`、`sphereMaker.py`、`trj_split.py`.
+And write the absolute path of the following folder and python program into the `.bashrc` file：`DynReacExtr`、`ReacNetDraw`、`QmJob`、`sphereMaker.py`、`trj_split.py`.
 ```
 export PATH=.../python:$PATH
 export PATH=.../python/QmJob:$PATH
@@ -86,8 +98,9 @@ export PATH=.../python/sphereMaker.py:$PATH
 export PATH=.../python/trj_split.py:$PATH
 ```
 
->[!Notes]:
-1. Using the latest version of `hmmlearn` and `Cmocean` may result in an error.`hmmlearn=0.2.7` and `cmocean=3.0.3` will be ok.
+Notes:
+Using the latest version of `hmmlearn` and `Cmocean` may result in an error.`hmmlearn=0.2.7` and `cmocean=3.0.3` will be ok.
+
 ---
 
 ## 2. Initial Sampling:
