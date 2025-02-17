@@ -4,7 +4,7 @@
 
 <div style="text-align: center">
 
-![Picture](https://pubs.acs.org/cms/10.1021/acs.jctc.3c00752/asset/images/medium/ct3c00752_0001.gif)
+![Image](https://pubs.acs.org/cms/10.1021/acs.jctc.3c00752/asset/images/medium/ct3c00752_0001.gif)
 </div>
 
 **Auther:** [Yutai Zhang](https://orcid.org/0009-0001-2327-0623), [Chao Xu](https://orcid.org/0000-0002-4043-2954), [Zhenggang Lan](https://orcid.org/0000-0002-8509-0388)
