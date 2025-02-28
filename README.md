@@ -720,7 +720,7 @@ If all the steps are completed successfully, you can view the Irc log in each su
 
 ## 6. Reaction Network Drawing
 
-###　6.1 Network Drawing:
+### 6.1 Network Drawing:
 
 You can modify the parameters at the `default_net_param` of the `\ReacNetDraw\_network.py` file.
 
