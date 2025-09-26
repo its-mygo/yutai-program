@@ -1,6 +1,6 @@
 <h1 align="center"> Automated Exploration of Reaction Network and Mechanism
 
-
+## !!!
 ** This GitHub repository will not be maintained in the future. For future updates, please refer to the following link: https://github.com/zglan/Auto_Chem_Reaction_Network_Nanoreactor **
 
 
@@ -1170,3 +1170,4 @@ sampling      # Directory
 └─grid_draw.py
 
 ```
+
